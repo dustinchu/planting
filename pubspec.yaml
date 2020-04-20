@@ -16,8 +16,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   provider: 4.0.4
-  after_layout: 1.0.7+2
-  logger: ^0.8.3
-  font_awesome_flutter: ^8.8.1
+  after_layout: 1.0.7+2 #第一禎加載
+  font_awesome_flutter: ^8.8.1 # icon
+  flutter_spinkit: ^4.1.2 # 隨時間變化而變化的加載指示器集合
 flutter:
   uses-material-design: true
